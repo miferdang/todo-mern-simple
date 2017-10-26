@@ -1,7 +1,7 @@
 # Todo-Mern-Simple
 A simple todo app built with MongoDB, Express, React, Node (MERN stack) and Webpack.
 
-![todo](https://i.imgur.com/STxN3iM.png)
+![todo](https://i.imgur.com/SFxAt6d.png)
 
 # Installation
 After download or clone the repo, you need to follow this steps to have the development environment running :
