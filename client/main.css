@@ -1,0 +1,66 @@
+h1 {
+  font-size: 50px !important;
+  text-align: center;
+  color: #fff !important;
+}
+
+h3 {
+  font-size: 27px !important;
+  text-align: center;
+  color: #a7a7a7 !important;
+}
+
+nav .logo {
+  width: 120px;
+  color: red;
+  margin: 0 20px;
+}
+
+.addTask {
+  background-color: #66bb6a;
+  padding: 90px 0;
+}
+
+.addTask form {
+  margin: 40px 0;
+}
+
+.addTask .btn-primary {
+  background-color: #66ba6b !important;
+  border-color: #e9ecef !important;
+}
+
+.listTask {
+  margin: 40px 0;
+}
+
+.listTask .task {
+  margin: 7px 0;
+}
+
+.listTask .btn {
+  text-align: left !important;
+  padding: 10px;
+}
+
+.listTask .content {
+  margin: 30px 0;
+}
+
+.listTask .delete {
+  font-size: 17px;
+  color: #bdbdbd;
+  margin: 0 10px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: -9999;
+  background-color: #f8f9fa !important;
+  text-align: center;
+  padding: 15px 0;
+  color: #bdbdbd;
+  height: 50px;
+}
