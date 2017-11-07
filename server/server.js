@@ -37,7 +37,6 @@ mongoose.connect(serverConfig.mongoURL, { useMongoClient: true })
   .then(() => console.log('Database has already connected !'))
   .catch((err) => console.err(err));
 
-// Send err 500 when err occur with server
 app.use((err, req, res, next) => {
   console.error(err);
   console.error(err.stack);
